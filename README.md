@@ -1,65 +1,53 @@
-### Hi there 👋
+## 깃허브 방문자 수
 
-# 이력서
-이름 : 노채운(만 26세)  
-거주지 : 안양
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminebean0502&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 이력
-한국외국어대학교 전자물리학과  
-한국외국어대학교 일본어통번역학과 졸업
+## 노채운 Baekjoon Online Judge
 
-멋쟁이사자처럼 테넷 수강중
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaa05051)](https://solved.ac/profile/baejeu)
 
-## 개인 소개
-### INFJ
+## GitHub stats
 
-### 외국어
-- 영어
-- 일본어
+[![jeus1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=minebean0502&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jeus1998/github-readme-stats)
 
-### 해봤던 것들
-- Photoshop drawing
-- designDoll
-    - blender
-- 일본어 회화능력 (상 / 프리토킹 가능)
+## 📞 Contact 📞
 
-## 프로젝트
+👉 <b>phone: 010-2610-4576</b>
 
-### 지하철 네트워크 중심성 조사 및 데이터 시각화
-- 사용 언어
-    1. **Python**
-    2. R
-- 사용 알고리즘
-    1. **Dijkstra Algorithm**
-- 사용 라이브러리
-    - Folium
-    - seaborn
-    - matplotlib
+👉 <b>email: no4323@naver.com</b><br>
+👉 <b>email: no4323@gmail.com</b>
 
-## 인턴
+## 🔨 I used 🔨
 
-**기간 : 2022.01 ~ 2022.03**  
-한국전자통신연구원(ETRI) 감성상호작용연구실  
+### BackEnd
+![Java Badge](https://img.shields.io/badge/Java-3776AB?logo=Java&logoColor=fff&style=for-the-badge)
+![Thymeleaf Badge](https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=fff&style=for-the-badge)
+![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)
+![JSON Web Tokens Badge](https://img.shields.io/badge/JSON%20Web%20Tokens-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge)
 
-## 주제
-- **AI 활용 Image Segmentation**
-    - 모델 분석
-    - Own data training
+### FrontEnd
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 사용 기술 스택
-- **Python**
-- Linux
-- OpenCV
-- ***인공신경망***
-    - Mask-CNN
-    - Mask-RNN
-    - ***Mask-RCNN***
+### FrameWork
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
+![Spring Security Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff&style=for-the-badge)
 
-## 관련 모듈 / 라이브러리
-- **tensorflow 2.0**
-    - keras
-- numpy
+### Server
+![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
+![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=000&style=for-the-badge)
 
+### DataBase
+![SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+### OS
+![Windows 10 Badge](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff&style=for-the-badge)
+
+### IDLE
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge)
 
 <!--
 **minebean0502/minebean0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
