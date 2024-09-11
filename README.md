@@ -11,7 +11,7 @@
 [![jeus1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=minebean0502&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jeus1998/github-readme-stats)
 
 ## 📞 Contact 📞
-
+🖥 <b>Data Engineer : 2024-08-01~ </b><br>
 👉 <b>phone: 010-2610-4576</b>
 
 👉 <b>email: no4323@naver.com</b><br>
